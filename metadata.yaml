@@ -1,5 +1,8 @@
 _repo: The-dreadful-dragon-of-Hay-Hill_75341
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75341-h/images/cover.jpg
 creator:
   author:
     agent_name: Beerbohm, Max, Sir
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/397
     wikipedia: https://en.wikipedia.org/wiki/Max_Beerbohm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75341#The-dreadful-dragon-of-Hay-Hill
 gutenberg_issued: '2025-02-11'
 gutenberg_type: Text
 identifiers:
